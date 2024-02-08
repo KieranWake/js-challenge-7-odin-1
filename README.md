@@ -1,2 +1,2 @@
-# js-challenge-7-odin-1
-Solving JavaScript problems with The Odin Project. First Edition! 
+<h1>Manipulating Variables!</h1>
+
