@@ -11,3 +11,7 @@ function nameCall() {
     const Earth = "";
     const userName = ""; 
 }
+
+function newUppercase() {
+    
+}
