@@ -6,3 +6,8 @@ function variableControl() {
 }
 
 variableControl();
+
+function nameCall() {
+    const Earth = "";
+    const userName = ""; 
+}
