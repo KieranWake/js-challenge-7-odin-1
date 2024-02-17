@@ -19,3 +19,11 @@ function newUppercase() {
 
 //It would be suitable to apply uppercasing to the const BIRTHDAY variable as this equates to -
 // numeral digits, and if the variable was named with digits - this would cause readability issues.
+
+function testNumbers() {
+    const myInt = 5;
+    const myFloat = 5.6666; 
+    console.log(typeof myInt); 
+    console.log(typeof myFloat);
+}
+testNumbers();
