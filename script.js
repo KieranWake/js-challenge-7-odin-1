@@ -27,3 +27,13 @@ function testNumbers() {
     console.log(typeof myFloat);
 }
 testNumbers();
+
+function testDecimal () {
+    const lotsOfDecimal = 1.766584958675746364;
+    lotsOfDecimal;
+    const twoDecimalPlaces = lotsOfDecimal.toFixed(1);
+    twoDecimalPlaces;
+    console.log(lotsOfDecimal);
+    console.log(twoDecimalPlaces);
+} 
+testDecimal();
