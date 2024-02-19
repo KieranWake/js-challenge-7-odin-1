@@ -51,5 +51,20 @@ function examQuestions() {
     //First try enter basic arithmetic operations.
     //Second, manipulate arithmetic operations with variables involved.
     //Third, use some more complex expressions. 
+
+    45 + 64; 
+    9 * 8; 
+    2 ** 4;
+    9 / 3; 
+    11 % 2; 
+
+    console.log(45 + 64);  // Output: 109
+    console.log(9 * 8);     // Output: 72
+    console.log(2 ** 4);    // Output: 16
+    console.log(9 / 3);     // Output: 3
+    console.log(11 % 2);    // Output: 1
 }
+examQuestions();
+
+
 
