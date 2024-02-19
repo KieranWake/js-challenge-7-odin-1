@@ -40,7 +40,7 @@ testDecimal();
 
 function testConvert () {
     let str = "64"; 
-    str += 3; 
+    str = Number(str) + 3; 
 
     typeof str;
     console.log(typeof str);
