@@ -47,3 +47,9 @@ function testConvert () {
 }
 testConvert();
 
+function examQuestions() {
+    //First try enter basic arithmetic operations.
+    //Second, manipulate arithmetic operations with variables involved.
+    //Third, use some more complex expressions. 
+}
+
