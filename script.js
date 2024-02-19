@@ -37,3 +37,13 @@ function testDecimal () {
     console.log(twoDecimalPlaces);
 } 
 testDecimal();
+
+function testConvert () {
+    let str = "64"; 
+    str += 3; 
+
+    typeof str;
+    console.log(typeof str);
+}
+testConvert();
+
