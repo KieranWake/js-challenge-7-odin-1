@@ -63,6 +63,20 @@ function examQuestions() {
     console.log(2 ** 4);    // Output: 16
     console.log(9 / 3);     // Output: 3
     console.log(11 % 2);    // Output: 1
+
+    const num1 = 64; 
+    const num2 = 74; 
+    return num1 + num2;
+
+    let result = 54; 
+    result + 64; 
+    return result; 
+
+    const numberOne = "64"; 
+    const numberTwo = 13; 
+
+    const outcome = Number(numberOne) - numberTwo;
+
 }
 examQuestions();
 
