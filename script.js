@@ -78,5 +78,30 @@ function examQuestions() {
 }
 examQuestions();
 
+//
+
+function operatorOrder () {
+    //example of operator precedence unwanted 
+
+    const num1 = 50; 
+    const num2 = 50; 
+
+    const result = num1 + num2 / 6 + 2; 
+    console.log(result);
+
+    return result;
+}
+operatorOrder();
+
+function operatorPrecedence () {
+    const num1 = 50;
+    const num2 = 50;
+
+    const result = (num1 + num2) / (6 + 2)
+    console.log(result); 
+}
+operatorPrecedence();
+
+
 
 
