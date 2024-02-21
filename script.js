@@ -39,6 +39,7 @@ testDecimal();
 function testConvert () {
     let str = "64"; 
     str = Number(str) + 3; 
+    
 
     typeof str;
     console.log(typeof str);
@@ -101,6 +102,14 @@ function operatorPrecedence () {
     console.log(result); 
 }
 operatorPrecedence();
+
+function testIncrement () {
+    let num = 49; 
+    num++;
+
+    console.log(num);
+}
+testIncrement();
 
 
 
