@@ -111,6 +111,14 @@ function testIncrement () {
 }
 testIncrement();
 
+function assignmentOrder () {
+    let num = 2; 
+    num += 4;
+
+    console.log(num);
+}
+assignmentOrder();
+
 
 
 
