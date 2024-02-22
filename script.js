@@ -144,6 +144,19 @@ function stringConvert() {
 }
 stringConvert();
 
+//Problem 3: Arithmetic Operations! 
+//Description: Write expression to calculate the area of a rectangle with a width of '5' units, and -
+//height of '8' units. 
+
+function arithmeticOps() {
+    const base = 5; 
+    const height = 8; 
+
+    const area = base * height; 
+    console.log(area); 
+}
+arithmeticOps();
+
 
 
 
