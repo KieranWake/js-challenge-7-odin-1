@@ -126,6 +126,11 @@ assignmentOrder();
 //Problem 1: Variable Declaration and Assignment! 
 //Description: Declare variable and assign "hello world" 
 
+function declareVar() {
+    let message = "Hello, World!";
+    return message;
+}
+
 
 
 
