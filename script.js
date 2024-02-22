@@ -128,10 +128,14 @@ assignmentOrder();
 
 function declareVar() {
     let message = "Hello, World!";
+    console.log(message)
     return message;
 }
+declareVar();
 
 
+//Problem 2: Data Types and Type Conversion!
+//Description: 
 
 
 
