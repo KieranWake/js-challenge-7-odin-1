@@ -121,6 +121,11 @@ function assignmentOrder () {
 }
 assignmentOrder();
 
+//The following functions will consist of answers to some fundamental problems. 
+
+//Problem 1: Variable Declaration and Assignment! 
+//Description: Declare variable and assign "hello world" 
+
 
 
 
