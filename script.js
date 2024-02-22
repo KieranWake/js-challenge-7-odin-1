@@ -135,7 +135,14 @@ declareVar();
 
 
 //Problem 2: Data Types and Type Conversion!
-//Description: 
+//Description: convert string "42" to a number and store it in a variable named 'num; 
+
+function stringConvert() {
+    const str = "42"; 
+    const newStr = Number(str); 
+    console.log(newStr);
+}
+stringConvert();
 
 
 
