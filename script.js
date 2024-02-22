@@ -179,6 +179,16 @@ function secondEval() {
 }
 secondEval();
 
+//Problem 5: Increment Function! 
+//Description: Declare function and initialise it's increment factor. 
+
+function incrementFunction() {
+    let counter = '10'; //By careful of establishing this as a string, numerical var = numerical val!
+    counter++;
+    console.log(counter);
+}
+incrementFunction();
+
 
 
 
