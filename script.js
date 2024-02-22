@@ -157,6 +157,28 @@ function arithmeticOps() {
 }
 arithmeticOps();
 
+//Problem 4: Operator Precedence! 
+//Description: Evaluate expression, '4 + 3 * 2' and store the result in a variable named 'result1' -
+//Then evaluate the expression '(4 + 3) * 2' and store the result in a var named 'result2' 
+
+function operatorEval() {
+    const firstExp = 4; 
+    const secondExp = 3; 
+
+    const firstResult = firstExp + secondExp * 2; 
+    console.log(firstResult);
+}
+operatorEval();
+
+function secondEval() {
+    const firstTerm = 4;
+    const secondTerm = 3;
+
+    const secondResult = (firstTerm + secondTerm) * 2;
+    console.log(secondResult)
+}
+secondEval();
+
 
 
 
